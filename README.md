@@ -38,7 +38,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/raj4931">
-        <img src="https://avatars.githubusercontent.com/u/85834102?v=4" width="100px;" alt="raj4931 GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/100918799?v=4" width="100px;" alt="raj4931 GitHub"/><br>
         <sub>
           <b>Raj Babu Singh</b>
         </sub>
