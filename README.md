@@ -3,7 +3,7 @@
  💻 <br>Animated Portfolio
  </h1>
 
- <h4 align = "center"> <a href="https://github.com/raj4931/animatd-portfolio-Rajmain.git"> Click to visit the Project </a> </h4> 
+ <h4 align = "center"> <a href="https://raj4931.github.io/animatd-portfolio-Rajmain/"> Click to visit the Project </a> </h4> 
 
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FPrakasRavichandran%2Fanimatd-portfolio&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
 
